@@ -5,6 +5,8 @@ node js, express, mongodb, postman, reactjs needed
 
 For backend, Libraries needed:
 (unzip node_modules.zip before use)
+
+
 npm install --save express-validator mongoose
 express used to create the server
 validator validates incoming requests which come to application ie payload of the requests witht 
@@ -20,7 +22,7 @@ so that we dont need to start node again and again, it is going to watch and rel
 npm --install bcrypt
 for password hashing and token creation via SHA256
 
-notes:
+Extra Notes:
 express is an unopinionated framework, we can write our code in own style
 route will create route path
 models=database
