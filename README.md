@@ -3,7 +3,8 @@ Community
 
 node js, express, mongodb, postman, reactjs needed
 
-For backend, Libraries needed: 
+For backend, Libraries needed:
+(unzip node_modules.zip before use)
 npm install --save express-validator mongoose
 express used to create the server
 validator validates incoming requests which come to application ie payload of the requests witht 
