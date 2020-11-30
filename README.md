@@ -8,6 +8,7 @@ For backend, Libraries needed:
 
 
 npm install --save express-validator mongoose 
+
 express used to create the server
 validator validates incoming requests which come to application ie payload of the requests witht 
 cause we gon use mongodb (schema less), so we adding mongoose library so that we can add schema and all
